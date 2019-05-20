@@ -35,9 +35,16 @@
         <div class="input-group py-2 mx-auto" style="width: 600px;">
             <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
         </div>
-        <div class="py-3 mx-auto" style="width: 600px">
-            <a class="btn btn-success" href="<?= base_url('main/searchResult') ?>">Submit</a>
+        <div>
+            <div class="py-3 mx-auto" style="width: 600px">
+                <a class="btn btn-success" href="<?= base_url('main/searchResult') ?>">Submit</a>
+            </div>
+            <div class="py-9 mx-auto" style="width: 600px">
+                <a class="btn btn-success" href="<?= base_url('login/logout') ?>">Logout</a>
+            </div>
+
         </div>
+
 
     </div>
 

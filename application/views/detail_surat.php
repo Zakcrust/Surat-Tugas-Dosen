@@ -29,22 +29,9 @@
 
     <body>
 
-
-        <div class="container">
-            <div class="dropdown">
-                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Dropdown button
-                </button>
-                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <a class="dropdown-item" href="#">Something else here</a>
-                </div>
-            </div>
-        </div>
         <div class="container bg-light col-3 col-6">
             <div class="py-1 mx mx-auto text-secondary" styple="width: 600px">
-                <h3>Periode Perkuliahan</h3>
+                <h3>Tanggal Surat</h3>
             </div>
             <div class="input-group py-2 mx-auto" style="width: 600px;">
                 <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">

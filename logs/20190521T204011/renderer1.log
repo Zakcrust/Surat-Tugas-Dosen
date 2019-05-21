@@ -1,0 +1,15 @@
+[2019-05-21 20:40:59.682] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at Y.getDataNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:955:302)
+    at Y.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:953:631)
+    at Generator.next (<anonymous>)
+    at r (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:32:293)
+[2019-05-21 20:54:45.797] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at s.getElementLocation (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:91:674)
+    at s.isCollapsed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:91:14)
+    at j.isCollapsed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:940:572)
+    at B.revealMarkersForCurrentActiveEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5301:237)
+    at B.autoReveal (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5301:94)
+    at B.onActiveEditorChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5298:531)
+    at B._register.e (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5297:572)
+    at d.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:75:436)
+    at setTimeout (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:71:973)

@@ -26,7 +26,7 @@ class Main extends CI_Controller
 
 	public function mainMenu()
 	{
-		$this->load->view('main_page');
+		$this->load->view('main_menu');
     }
     
     public function searchResult()
@@ -37,5 +37,31 @@ class Main extends CI_Controller
     public function reportPage()
     {
         $this->load->view('report_page');
-    }
+	}
+	
+	public function cariDosen()
+	{
+		$this->load->view('cari_dosen');
+	}
+
+	public function cariMK()
+	{
+		$this->load->view('cari_mk');
+	}
+
+	public function inputDosen()
+	{
+		$this->load->view('input_dosen');
+	}
+
+	public function inputMK()
+	{
+		$this->load->view('input_mk');
+	}
+
+	public function detailSurat()
+	{
+		$this->load->view('detail_surat');
+	}
+	
 }

@@ -32,13 +32,12 @@
                     <th scope="col">Jam Mulai</th>
                     <th scope="col">Jam Selesai</th>
                     <th scope="col">Ruang</th>
-                    <th scope="col">Peserta</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <th scope="row">1</th>
-                    <td><a href="<?= base_url('main/reportPage') ?>">Mark</a></td>
+                    <td><a href="<?= base_url('main/detailForm') ?>">Mark</a></td>
                     <td></td>
                     <td></td>
                     <td></td>

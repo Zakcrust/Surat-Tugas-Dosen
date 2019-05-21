@@ -16,38 +16,26 @@
     <div class="jumbotron bg-info text-white">
         <h1 class="display-4">Pembuatan Surat Tugas Dosen</h1>
     </div>
-    <div class="container bg-light col-3 col-6">
-        <div class="py-1 mx mx-auto text-secondary" styple="width: 600px">
-            <h3>Input Nama Dosen</h3>
-        </div>
-        <div class="py-1 mx mx-auto text-secondary" styple="width: 600px">
-            <div class="input-group py-2 mx-auto" style="width: 600px;">
-                <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+    <form name="data_dosen" method="post" action="">
+        <div class="container bg-light col-3 col-6">
+            <div class="py-1 mx mx-auto text-secondary" styple="width: 600px">
+                <h3>Input Nama Dosen</h3>
             </div>
-            <h3>Periode Perkuliahan</h3>
-        </div>
-        <div class="py-1 mx mx-auto text-secondary" styple="width: 600px">
-            <div class="input-group py-2 mx-auto" style="width: 600px;">
-                <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
-            </div>
-            <h3>Tujuan Surat</h3>
-        </div>
-        <div class="input-group py-2 mx-auto" style="width: 600px;">
-            <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
-        </div>
-        <div>
-            <div class="py-3 mx-auto" style="width: 600px">
-                <a class="btn btn-success" href="<?= base_url('main/searchResult') ?>">Submit</a>
-            </div>
-            <div class="py-9 mx-auto" style="width: 600px">
-                <a class="btn btn-success" href="<?= base_url('login/logout') ?>">Logout</a>
+            <div class="py-1 mx mx-auto text-secondary" styple="width: 600px">
+                <div class="input-group py-2 mx-auto" style="width: 600px;">
+                    <input type="text" name="nama_dosen" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+                </div>
+                <div class="py-3 mx-auto" style="width: 600px">
+                    <a class="btn btn-success" href="<?= base_url('main/searchResult') ?>">Submit</a>
+                </div>
+                <div class="py-9 mx-auto" style="width: 600px">
+                    <a class="btn btn-success" href="<?= base_url('login/logout') ?>">Logout</a>
+                </div>
+
             </div>
 
         </div>
-
-
-    </div>
-
+    </form>
 
 
     <!-- Optional JavaScript -->

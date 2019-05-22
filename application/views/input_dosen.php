@@ -47,13 +47,13 @@
                         </button>
 
                         <a class="navbar-brand" href="<?= base_url('main/cariDosen') ?>"><img src="assets/img/logo.png" alt="Cari Dosen"></a>
-                        <a class="navbar-brand" href="<?= base_url('main/cariMK') ?>"><img src="assets/img/logo.png" alt="Cari Mata Kuliah"></a>
                         <a class="navbar-brand" href="<?= base_url('main/inputDosen') ?>"><img src="assets/img/logo.png" alt="Input Dosen"></a>
                         <a class="navbar-brand" href="<?= base_url('main/inputMK') ?>"><img src="assets/img/logo.png" alt="Input Mata Kuliah"></a>
+                        <a class="navbar-brand" href="<?= base_url('main/inputJadwal') ?>"><img src="assets/img/logo.png" alt="Input Jadwal"></a>
                     </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="/">Home</a></li>
+                            <li><a href="<?= base_url('main/mainMenu') ?>">Home</a></li>
                             <li><a href="/">Data Dosen</a></li>
                             <li><a href="/">Data Mata Kuliah</a></li>
                             <li><a href="<?= base_url('login/logout') ?>">Log out</a></li>

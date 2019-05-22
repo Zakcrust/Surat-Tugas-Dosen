@@ -44,9 +44,9 @@ class Main extends CI_Controller
 		$this->load->view('cari_dosen');
 	}
 
-	public function cariMK()
+	public function inputJadwal()
 	{
-		$this->load->view('cari_mk');
+		$this->load->view('input_jadwal');
 	}
 
 	public function inputDosen()

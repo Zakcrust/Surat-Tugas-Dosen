@@ -53,9 +53,9 @@
                         </button>
 
                         <a class="navbar-brand" href="<?= base_url('main/cariDosen') ?>"><img src="assets/img/logo.png" alt="Cari Dosen"></a>
-                        <a class="navbar-brand" href="<?= base_url('main/cariMK') ?>"><img src="assets/img/logo.png" alt="Cari Mata Kuliah"></a>
                         <a class="navbar-brand" href="<?= base_url('main/inputDosen') ?>"><img src="assets/img/logo.png" alt="Input Dosen"></a>
                         <a class="navbar-brand" href="<?= base_url('main/inputMK') ?>"><img src="assets/img/logo.png" alt="Input Mata Kuliah"></a>
+                        <a class="navbar-brand" href="<?= base_url('main/inputJadwal') ?>"><img src="assets/img/logo.png" alt="Input Jadwal"></a>
                     </div>
                     <!--navbar header -->
                     <div class="navbar-collapse collapse">

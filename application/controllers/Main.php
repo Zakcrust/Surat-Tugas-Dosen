@@ -19,6 +19,14 @@ class Main extends CI_Controller
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
+
+	function __construct()
+	{
+		parent::__construct();
+		$this->load->model('m_data');
+		$this->load->helper('url');
+	}
+
 	public function index()
 	{
 		$this->load->view('main');
@@ -56,7 +64,8 @@ class Main extends CI_Controller
 
 	public function inputMK()
 	{
-		$this->load->view('input_mk');
+		$data['DATA_DOSEN'] = $this->m_data->tampil_data()->result();
+		$this->load->view('input_mk',$data);
 	}
 
 	public function detailSurat()

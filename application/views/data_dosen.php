@@ -34,16 +34,10 @@
 </head>
 
 <body>
-
-    <!-- HEADER ========   -->
     <header class="site-header" role="banner">
-
-        <!-- Navbar -->
         <div class="navbar-wrapper">
             <div class="navbar navbar-inverse" role="navigation">
-
                 <div class="container">
-
                     <div class="navbar-header">
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                             <span class="sr-only">Toggle navigation</span>
@@ -57,35 +51,49 @@
                         <a class="navbar-brand" href="<?= base_url('main/inputMK') ?>"><img src="assets/img/logo.png" alt="Input Mata Kuliah"></a>
 
                     </div>
-                    <!--navbar header -->
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="<?= base_url('main/mainMenu') ?>">Home</a></li>
-                            <li><a href="<?= base_url('DataDosen') ?>">Data Dosen</a></li>
+                            <li><a href="/">Data Dosen</a></li>
                             <li><a href="/">Data Mata Kuliah</a></li>
                             <li><a href="<?= base_url('login/logout') ?>">Log out</a></li>
                         </ul>
-                    </div><!-- container -->
-                </div><!-- navbar -->
+                    </div>
+                </div>
             </div>
-            <!--navbar wrapper -->
-
+        </div>
     </header>
 
-    <!-- Section1 ========   -->
-    <section>
-    </section>
+    <div class="container-fluid">
 
-    <!--  sections missing ...  -->
+        <table class="table table-bordered ">
+            <thead>
+                <tr>
+                    <th scope="col">No</th>
+                    <th scope="col">NIP</th>
+                    <th scope="col">Nama Dosen</th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
 
-    <!-- FOOTER ========   -->
-
-    <footer>
-    </footer>
-
-    <!-- BOOSTRAP CORE JAVASCRIPT  ======== Place at the end of the document so the pages load faster -->
-
-
+            <tbody>
+                <?php
+                $no = 1;
+                foreach ($DATA_DOSEN as $u) {
+                    ?>
+                    <tr>
+                        <td><?php echo $no++ ?></td>
+                        <td><?php echo $u->NIP ?></td>
+                        <td><?php echo $u->NAMA_DOSEN ?></td>
+                        <td><a href="/">Submit</a>
+                            <?php echo anchor('DataDosen/edit/'.$u->ID_DOSEN, 'Edit'); ?>
+                            <?php echo anchor('DataDosen/hapus/'.$u->ID_DOSEN, 'Hapus'); ?>
+                        </td>
+                    </tr>
+                <?php } ?>
+            </tbody>
+        </table>
+    </div>
 
 </body>
 

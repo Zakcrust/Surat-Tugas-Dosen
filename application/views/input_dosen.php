@@ -64,7 +64,7 @@
         </div>
     </header>
 
-    <form name="data_dosen" method="post" action="<?= base_url('main/searchResult') ?>">
+    <form name="data_dosen" method="post" action="<?= base_url('InputAdmin/submitData') ?>">
         <div class="container bg-light">
             <div class="col-md-4 mx-auto">
             </div>
@@ -73,7 +73,7 @@
                     <h3>NIP</h3>
                 </div>
                 <div class="form-group">
-                    <input type="text" name="nama_dosen" class="form-control">
+                    <input type="text" name="nip" class="form-control">
                 </div>
                 <div class="text-secondary text-center">
                     <h3>Nama Dosen</h3>

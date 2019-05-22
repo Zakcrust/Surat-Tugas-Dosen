@@ -64,7 +64,7 @@
             </div>
         </div>
     </header>
-    <form name="data_dosen" method="post" action="<?= base_url('main/searchResult') ?>">
+    <form name="data_dosen" method="post" action="<?= base_url('InputMK/submitData') ?>">
         <div class="container bg-light">
             <div class="col-md-4 mx-auto">
             </div>
@@ -73,25 +73,25 @@
                     <h3>Nama Matakuliah</h3>
                 </div>
                 <div class="form-group">
-                    <input type="text" name="nama_dosen" class="form-control">
+                    <input type="text" name="nama_mk" class="form-control">
                 </div>
                 <div class="text-secondary text-center">
                     <h3>Jurusan</h3>
                 </div>
                 <div class="form-group">
-                    <input type="text" name="nama_dosen" class="form-control">
+                    <input type="text" name="jurusan" class="form-control">
                 </div>
                 <div class="text-secondary text-center">
                     <h3>SKS</h3>
                 </div>
                 <div class="form-group">
-                    <input type="text" name="nama_dosen" class="form-control">
+                    <input type="text" name="sks" class="form-control">
                 </div>
                 <div class="text-secondary text-center">
                     <h3>Kurikulum</h3>
                 </div>
                 <div class="form-group">
-                    <input type="text" name="nama_dosen" class="form-control">
+                    <input type="text" name="kurikulum" class="form-control">
                 </div>
                 <div class="form-group">
                     <button class="btn btn-success form-control" type="submit">Submit</button>

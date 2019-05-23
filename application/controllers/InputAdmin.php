@@ -2,6 +2,12 @@
 
 class InputAdmin extends CI_Controller
 {
+    function __construct()
+    {
+        parent::__construct();
+        if (!isset($this->session->status)) redirect(base_url("Login"));
+    }
+
     function submitData()
     {
         $this->load->model('Input_data');

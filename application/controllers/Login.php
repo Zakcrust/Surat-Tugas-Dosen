@@ -7,12 +7,14 @@ class Login extends CI_Controller
     {
         parent::__construct();
         $this->load->model('m_login');
+        
     }
 
     function index()
     {
         $this->load->library('session');
         $this->load->view('main');
+        if (isset($this->session->status)) redirect(base_url("main/mainMenu"));
     }
 
     function flashLogin()
@@ -53,6 +55,9 @@ class Login extends CI_Controller
     }
     function logout()
     {
+        $array_items = array('nama' => '', 'status' => '');
+
+        $this->session->unset_userdata($array_items);
         $this->session->sess_destroy();
         redirect(base_url('Login'));
     }

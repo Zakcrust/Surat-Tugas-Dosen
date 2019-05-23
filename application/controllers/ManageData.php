@@ -8,6 +8,7 @@ class ManageData extends CI_Controller
         parent::__construct();
         $this->load->model('m_data');
         $this->load->helper('url');
+        if (!isset($this->session->status)) redirect(base_url("Login"));
     }
 
 

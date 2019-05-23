@@ -14,7 +14,8 @@ class SearchData extends CI_Controller
     
     function search()
     {
-        $namaDosen = $this->input->post('nama_dosen');
-        $query['DATA_DOSEN'] = $this->db->get_where('DATA_DOSEN',$namaDosen);
+        $namaDosen    = $this->input->post('nama_dosen');
+        $data['DATA_DOSEN'] = $this->m_data->search($namaDosen,'NAMA_DOSEN','DATA_DOSEN')->result();
+        $this->load->view('search_result',$data);
     }
 }

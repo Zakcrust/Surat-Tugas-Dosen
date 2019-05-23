@@ -63,7 +63,7 @@
             </div>
         </div>
     </header>
-    <form name="data_dosen" method="post" action="<?= base_url('main/searchResult') ?>">
+    <form name="data_dosen" method="post" action="<?= base_url('SearchData/Search') ?>">
         <div class="container bg-light">
             <div class="col-md-4 mx-auto">
             </div>
@@ -73,6 +73,18 @@
                 </div>
                 <div class="form-group">
                     <input type="text" name="nama_dosen" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>Tanggal Surat</h3>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="tanggal_surat" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>Periode</h3>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="periode" class="form-control">
                 </div>
                 <div class="form-group">
                     <button class="btn btn-success form-control" type="submit">Cari</button>

@@ -17,37 +17,28 @@
         <h1 class="display-4">Pembuatan Surat Tugas Dosen</h1>
     </div>
 
-    <div class="container-fluid">
+    <div class="container">
 
         <table class="table table-bordered ">
             <thead>
                 <tr>
-                    <th scope="col">id</th>
+                    <th scope="col">ID</th>
+                    <th scope="col">NIP</th>
                     <th scope="col">Nama Dosen</th>
-                    <th scope="col">Mata Kuliah</th>
-                    <th scope="col">Kelas</th>
-                    <th scope="col">SKS</th>
-                    <th scope="col">Total SKS</th>
-                    <th scope="col">Hari</th>
-                    <th scope="col">Jam Mulai</th>
-                    <th scope="col">Jam Selesai</th>
-                    <th scope="col">Ruang</th>
+                    <th scope="col">Aksi</th>
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <th scope="row">1</th>
-                    <td><a href="<?= base_url('main/detailForm') ?>">Mark</a></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
+                <?php
+                $no = 1;
+                foreach ($DATA_DOSEN as $d) { ?>
+                    <tr>
+                        <td><?= $no++ ?></td>
+                        <td><?= $d->NIP ?></td>
+                        <td><?= $d->NAMA_DOSEN ?></td>
+                        <td><a class="btn btn-success text-white" href="<?= base_url('ManageCetak/prosesCetak/' . $d->ID_DOSEN) ?>">Cetak</a></td>
+                    </tr>
+                <?php } ?>
             </tbody>
         </table>
     </div>

@@ -23,4 +23,10 @@ class M_data extends CI_Model
     {
         return $this->db->get_where($table, $where);
     }
+
+    function search($where,$column,$table)
+    {
+        $this->db->like($column,$where);
+        return $this->db->get($table);
+    }
 }

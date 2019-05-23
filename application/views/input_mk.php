@@ -55,7 +55,7 @@
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="<?= base_url('main/mainMenu') ?>">Home</a></li>
                             <li><a href="<?= base_url('DataDosen') ?>">Data Dosen</a></li>
-                            <li><a href="/">Data Mata Kuliah</a></li>
+                            <li><a href="<?= base_url('DataMK') ?>">Data Mata Kuliah</a></li>
                             <li><a href="<?= base_url('login/logout') ?>">Log out</a></li>
                         </ul>
                     </div>
@@ -88,20 +88,46 @@
                 <div class="text-secondary text-center">
                     <h3>Jurusan</h3>
                 </div>
-                <div class="form-group">
-                    <input type="text" name="jurusan" class="form-control">
+                <div class="dropdown">
+                    <select class="form-control" name="jurusan">
+                        <option value="Teknik Informatika">Teknik Informatika</option>
+                        <option value="Teknik Informatika">Teknik Elektronika</option>
+                        <option value="Teknik Informatika">Agroteknologi</option>
+                        <option value="Teknik Informatika">Biologi Sains</option>
+                        <option value="Teknik Informatika">Kimia Sains</option>
+                        <option value="Teknik Informatika">Fisika Sains</option>
+                        <option value="Teknik Informatika">Matematika Sains</option>
+                    </select>
                 </div>
                 <div class="text-secondary text-center">
                     <h3>SKS</h3>
                 </div>
-                <div class="form-group">
-                    <input type="text" name="sks" class="form-control">
+                <div class="dropdown">
+                    <select class="form-control" name="sks">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                    </select>
                 </div>
                 <div class="text-secondary text-center">
                     <h3>Semester</h3>
                 </div>
-                <div class="form-group">
-                    <input type="text" name="semester" class="form-control">
+                <div class="dropdown">
+                    <select class="form-control" name="semester">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                    </select>
                 </div>
                 <div class="text-secondary text-center">
                     <h3>Kurikulum</h3>
@@ -118,8 +144,15 @@
                 <div class="text-secondary text-center">
                     <h3>Hari</h3>
                 </div>
-                <div class="form-group">
-                    <input type="text" name="hari" class="form-control">
+                <div class="dropdown">
+                    <select class="form-control" name="hari">
+                        <option value="Senin">Senin</option>
+                        <option value="Selasa">Selasa</option>
+                        <option value="Rabu">Rabu</option>
+                        <option value="Kamis">Kamis</option>
+                        <option value="Jumat">Jumat</option>
+                        <option value="Sabtu">Sabtu</option>
+                    </select>
                 </div>
                 <div class="text-secondary text-center">
                     <h3>Jam Mulai</h3>

@@ -74,6 +74,7 @@
                     <th scope="col">Matakuliah</th>
                     <th scope="col">Jurusan</th>
                     <th scope="col">SKS</th>
+                    <th scope="col">Semester</th>
                     <th scope="col">Kurikulum</th>
                     <th scope="col">Kelas</th>
                     <th scope="col">Hari</th>
@@ -100,15 +101,16 @@
                         <td><?= $d->NAMA_MK ?></td>
                         <td><?= $d->JURUSAN ?></td>
                         <td><?= $d->SKS ?></td>
+                        <td><?= $d->SEMESTER ?></td>
                         <td><?= $d->KURIKULUM ?></td>
                         <td><?= $d->KELAS ?></td>
                         <td><?= $d->HARI ?></td>
                         <td><?= $d->JAM_MULAI ?></td>
                         <td><?= $d->JAM_SELESAI ?></td>
                         <td><?= $d->RUANG ?></td>
-                        <td>
-                            <?php echo anchor('DataMK/edit/' . $d->ID_MK, 'Edit'); ?>
-                            <?php echo anchor('DataMK/hapus/' . $d->ID_MK, 'Hapus'); ?>
+                        <td colspan="2">
+                            <a type="button" class="btn btn-primary text-white" href="<?= base_url('DataMK/edit/') . $d->ID_MK ?>">Edit</a>
+                            <a type="button" class="btn btn-danger text-white" href="<?= base_url('DataMK/hapus/') . $d->ID_MK ?>">Hapus</a>
                         </td>
                     </tr>
                 <?php } ?>

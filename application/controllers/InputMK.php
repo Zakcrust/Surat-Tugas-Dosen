@@ -9,6 +9,7 @@
         $namaMK = $this->input->post('nama_mk');
         $jurusan = $this->input->post('jurusan');
         $sks = $this->input->post('sks');
+        $semester = $this->input->post('semester');
         $kurikulum = $this->input->post('kurikulum');
         $kelas = $this->input->post('kelas');
         $hari = $this->input->post('hari');
@@ -20,6 +21,7 @@
             'NAMA_MK' => $namaMK,
             'JURUSAN' => $jurusan,
             'SKS' => $sks,
+            'SEMESTER' => $semester,
             'KURIKULUM' => $kurikulum,
             'KELAS'       => $kelas,
             'HARI'        => $hari,

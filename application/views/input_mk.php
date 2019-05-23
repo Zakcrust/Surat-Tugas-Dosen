@@ -98,6 +98,12 @@
                     <input type="text" name="sks" class="form-control">
                 </div>
                 <div class="text-secondary text-center">
+                    <h3>Semester</h3>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="semester" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
                     <h3>Kurikulum</h3>
                 </div>
                 <div class="form-group">

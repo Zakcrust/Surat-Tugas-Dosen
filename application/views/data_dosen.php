@@ -85,7 +85,7 @@
                         <td><?php echo $no++ ?></td>
                         <td><?php echo $u->NIP ?></td>
                         <td><?php echo $u->NAMA_DOSEN ?></td>
-                        <td><a href="/">Submit</a>
+                        <td>
                             <?php echo anchor('DataDosen/edit/' . $u->ID_DOSEN, 'Edit'); ?>
                             <?php echo anchor('DataDosen/hapus/' . $u->ID_DOSEN, 'Hapus'); ?>
                         </td>

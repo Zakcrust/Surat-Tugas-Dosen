@@ -70,7 +70,7 @@
             <thead>
                 <tr>
                     <th scope="col">No</th>
-                    <th scope="col">ID Dosen</th>
+                    <th scope="col">Nama Dosen</th>
                     <th scope="col">Matakuliah</th>
                     <th scope="col">Jurusan</th>
                     <th scope="col">SKS</th>
@@ -87,10 +87,16 @@
             <tbody>
                 <?php
                 $no = 1;
-                foreach ($DATA_MK as $d) { ?>
+                foreach ($DATA_MK as $d) {
+                    $this->db->select('dosen.ID_DOSEN, dosen.NAMA_DOSEN');
+                    $this->db->from('DATA_DOSEN as dosen, DATA_MK as mk ');
+                    $this->db->where('dosen.ID_DOSEN', $d->ID_DOSEN);
+                    $query = $this->db->get();
+                    $row = $query->row();
+                    ?>
                     <tr>
                         <td><?= $no++ ?></td>
-                        <td><?= $d->ID_DOSEN ?></td>
+                        <td><?= $row->NAMA_DOSEN ?></td>
                         <td><?= $d->NAMA_MK ?></td>
                         <td><?= $d->JURUSAN ?></td>
                         <td><?= $d->SKS ?></td>

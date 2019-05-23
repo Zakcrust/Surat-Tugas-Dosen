@@ -26,8 +26,6 @@ Open repository: /opt/lampp/htdocs/SuratTugasDosen
 > git rev-list --left-right master...refs/remotes/origin/master
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
-> git add -A -- .
-> git commit --quiet --allow-empty-message --file - --all
 > git status -z -u
 > git symbolic-ref --short HEAD
 > git rev-parse master
@@ -35,7 +33,6 @@ Open repository: /opt/lampp/htdocs/SuratTugasDosen
 > git rev-list --left-right master...refs/remotes/origin/master
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
-> git config --get commit.template
 > git status -z -u
 > git symbolic-ref --short HEAD
 > git rev-parse master
@@ -43,10 +40,34 @@ Open repository: /opt/lampp/htdocs/SuratTugasDosen
 > git rev-list --left-right master...refs/remotes/origin/master
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
-> git show :application/views/cari_dosen.php
-> git push origin master:master
-remote: Anonymous access to Zakcrust/Surat-Tugas-Dosen.git denied.
-fatal: Authentication failed for 'https://github.com/Zakcrust/Surat-Tugas-Dosen.git/'
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
 > git status -z -u
 > git symbolic-ref --short HEAD
 > git rev-parse master
@@ -55,9 +76,6 @@ fatal: Authentication failed for 'https://github.com/Zakcrust/Surat-Tugas-Dosen.
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
 > git check-ignore -z --stdin
-> git push origin master:master
-To https://github.com/Zakcrust/Surat-Tugas-Dosen.git
-   fc7efdc..9252ea7  master -> master
 > git status -z -u
 > git symbolic-ref --short HEAD
 > git rev-parse master
@@ -65,14 +83,6 @@ To https://github.com/Zakcrust/Surat-Tugas-Dosen.git
 > git rev-list --left-right master...refs/remotes/origin/master
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
-> git status -z -u
-> git symbolic-ref --short HEAD
-> git rev-parse master
-> git rev-parse --symbolic-full-name master@{u}
-> git rev-list --left-right master...refs/remotes/origin/master
-> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
-> git remote --verbose
-> git show :application/views/cari_dosen.php
 > git status -z -u
 > git symbolic-ref --short HEAD
 > git rev-parse master

@@ -49,12 +49,12 @@
                         <a class="navbar-brand" href="<?= base_url('main/cariDosen') ?>"><img src="assets/img/logo.png" alt="Cari Dosen"></a>
                         <a class="navbar-brand" href="<?= base_url('main/inputDosen') ?>"><img src="assets/img/logo.png" alt="Input Dosen"></a>
                         <a class="navbar-brand" href="<?= base_url('main/inputMK') ?>"><img src="assets/img/logo.png" alt="Input Mata Kuliah"></a>
-                        <a class="navbar-brand" href="<?= base_url('main/inputJadwal') ?>"><img src="assets/img/logo.png" alt="Input Jadwal"></a>
+
                     </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="<?= base_url('main/mainMenu') ?>">Home</a></li>
-                            <li><a href="/">Data Dosen</a></li>
+                            <li><a href="<?= base_url('DataDosen') ?>">Data Dosen</a></li>
                             <li><a href="/">Data Mata Kuliah</a></li>
                             <li><a href="<?= base_url('login/logout') ?>">Log out</a></li>
                         </ul>
@@ -63,41 +63,34 @@
             </div>
         </div>
     </header>
-    <form name="data_dosen" method="post" action="<?= base_url('InputJadwal/submitData') ?>">
+
+    <form name="data_dosen" method="post" action="<?= base_url('DataDosen/update') ?>">
         <div class="container bg-light">
             <div class="col-md-4 mx-auto">
             </div>
             <div class="col-md-4 mx-auto">
-                <div class="form-group">
+                <?php
+                foreach ($DATA_DOSEN as $u) {
+                    ?>
                     <div class="text-secondary text-center">
-                        <h3>Kelas</h3>
+                        <h3>ID Dosen</h3>
                     </div>
-                    <input type="text" name="kelas" class="form-control">
-                </div>
-                <div class="form-group">
+                    <div class="form-group">
+                        <input type="hidden" name="id" class="form-control" value="<?php echo $u->ID_DOSEN ?>">
+                    </div>
                     <div class="text-secondary text-center">
-                        <h3>Hari</h3>
+                        <h3>NIP</h3>
                     </div>
-                    <input type="text" name="hari" class="form-control">
-                </div>
-                <div class="form-group">
+                    <div class="form-group">
+                        <input type="text" name="nip" class="form-control" value="<?php echo $u->NIP ?>">
+                    </div>
                     <div class="text-secondary text-center">
-                        <h3>Jam Mulai</h3>
+                        <h3>Nama Dosen</h3>
                     </div>
-                    <input type="time" name="jam_mulai" class="form-control">
-                </div>
-                <div class="form-group">
-                    <div class="text-secondary text-center">
-                        <h3>Jam Selesai</h3>
+                    <div class="form-group">
+                        <input type="text" name="nama_dosen" class="form-control" value="<?php echo $u->NAMA_DOSEN ?>">
                     </div>
-                    <input type="time" name="jam_selesai" class="form-control">
-                </div>
-                <div class="form-group">
-                    <div class="text-secondary text-center">
-                        <h3>Ruang</h3>
-                    </div>
-                    <input type="text" name="ruang" class="form-control">
-                </div>
+                <?php } ?>
                 <div class="form-group">
                     <button class="btn btn-success form-control" type="submit">Submit</button>
                 </div>
@@ -106,6 +99,7 @@
             </div>
         </div>
     </form>
+
 </body>
 
 </html>

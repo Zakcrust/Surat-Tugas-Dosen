@@ -54,7 +54,7 @@
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="<?= base_url('main/mainMenu') ?>">Home</a></li>
-                            <li><a href="/">Data Dosen</a></li>
+                            <li><a href="<?= base_url('DataDosen') ?>">Data Dosen</a></li>
                             <li><a href="/">Data Mata Kuliah</a></li>
                             <li><a href="<?= base_url('login/logout') ?>">Log out</a></li>
                         </ul>
@@ -69,85 +69,79 @@
             <div class="col-md-4 mx-auto">
             </div>
             <div class="col-md-4 mx-auto">
-                <div class="dropdown">
-                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                        Dosen Pengampu
-                        <span class="caret"></span>
-                    </button>
-                    <ul class="dropdown-menu" name="nama_dosen" aria-labelledby="dropdownMenu1">
-                        <?php
-                        foreach ($DATA_DOSEN as $u) {
-                            ?>
-                            <li><?php echo $u->NAMA_DOSEN?></a></li>
-                        <?php } ?>
-                        </ul>
-                    </div>
-                    <div class="form-group">
-                        <input type="text" name="nama_mk" class="form-control">
-                    </div>
-                    <div class="text-secondary text-center">
-                        <h3>Nama Matakuliah</h3>
-                    </div>
-                    <div class="form-group">
-                        <input type="text" name="nama_mk" class="form-control">
-                    </div>
-                    <div class="text-secondary text-center">
-                        <h3>Jurusan</h3>
-                    </div>
-                    <div class="form-group">
-                        <input type="text" name="jurusan" class="form-control">
-                    </div>
-                    <div class="text-secondary text-center">
-                        <h3>SKS</h3>
-                    </div>
-                    <div class="form-group">
-                        <input type="text" name="sks" class="form-control">
-                    </div>
-                    <div class="text-secondary text-center">
-                        <h3>Kurikulum</h3>
-                    </div>
-                    <div class="form-group">
-                        <input type="text" name="kurikulum" class="form-control">
-                    </div>
-                    <div class="text-secondary text-center">
-                        <h3>Kelas</h3>
-                    </div>
-                    <div class="form-group">
-                        <input type="text" name="kelas" class="form-control">
-                    </div>
-                    <div class="text-secondary text-center">
-                        <h3>Hari</h3>
-                    </div>
-                    <div class="form-group">
-                        <input type="text" name="hari" class="form-control">
-                    </div>
-                    <div class="text-secondary text-center">
-                        <h3>Jam Mulai</h3>
-                    </div>
-                    <div class="form-group">
-                        <input type="time" name="jam_mulai" class="form-control">
-                    </div>
-                    <div class="text-secondary text-center">
-                        <h3>Jam Selesai</h3>
-                    </div>
-                    <div class="form-group">
-                        <input type="time" name="jam_selesai" class="form-control">
-                    </div>
-                    <div class="text-secondary text-center">
-                        <h3>Ruang</h3>
-                    </div>
-                    <div class="form-group">
-                        <input type="text" name="ruang" class="form-control">
-                    </div>
-
-                    <div class="form-group">
-                        <button class="btn btn-success form-control" type="submit">Submit</button>
-                    </div>
+                <div class="text-secondary text-center">
+                    <h3>Dosen Pengampu</h3>
                 </div>
-                <div class="col-md-4 mx-auto">
+                <div class="dropdown">
+                    <select class="form-control" name="nama_dosen">
+                        <?php foreach ($DATA_DOSEN as $u) { ?>
+                            <option value="<?php echo $u->ID_DOSEN ?>"><?php echo $u->NAMA_DOSEN ?></option>
+                        <?php } ?>
+                    </select>
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>Nama Matakuliah</h3>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="nama_mk" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>Jurusan</h3>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="jurusan" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>SKS</h3>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="sks" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>Kurikulum</h3>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="kurikulum" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>Kelas</h3>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="kelas" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>Hari</h3>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="hari" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>Jam Mulai</h3>
+                </div>
+                <div class="form-group">
+                    <input type="time" name="jam_mulai" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>Jam Selesai</h3>
+                </div>
+                <div class="form-group">
+                    <input type="time" name="jam_selesai" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>Ruang</h3>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="ruang" class="form-control">
+                </div>
+
+                <div class="form-group">
+                    <button class="btn btn-success form-control" type="submit">Submit</button>
                 </div>
             </div>
-        </form>
-    </body>
+            <div class="col-md-4 mx-auto">
+            </div>
+        </div>
+    </form>
+</body>
 
-    </html>
+</html>

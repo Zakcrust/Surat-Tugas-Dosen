@@ -62,7 +62,7 @@
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="<?= base_url('main/mainMenu') ?>">Home</a></li>
                             <li><a href="<?= base_url('DataDosen') ?>">Data Dosen</a></li>
-                            <li><a href="/">Data Mata Kuliah</a></li>
+                            <li><a href="<?= base_url('DataMK') ?>">Data Mata Kuliah</a></li>
                             <li><a href="<?= base_url('login/logout') ?>">Log out</a></li>
                         </ul>
                     </div><!-- container -->

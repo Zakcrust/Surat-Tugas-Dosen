@@ -13,7 +13,7 @@ class InputAdmin extends CI_Controller
         );
         $table = 'DATA_DOSEN';
         $this->Input_data->inputData($table,$arr);
-        echo "data berhasil disubmit";
+        redirect(base_url('DataDosen'));
     }
 
 }

@@ -54,8 +54,8 @@
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="<?= base_url('main/mainMenu') ?>">Home</a></li>
-                            <li><a href="/">Data Dosen</a></li>
-                            <li><a href="/">Data Mata Kuliah</a></li>
+                            <li><a href="<?= base_url('DataDosen') ?>">Data Dosen</a></li>
+                            <li><a href="<?= base_url('DataMK') ?>">Data Mata Kuliah</a></li>
                             <li><a href="<?= base_url('login/logout') ?>">Log out</a></li>
                         </ul>
                     </div>
@@ -86,8 +86,8 @@
                         <td><?php echo $u->NIP ?></td>
                         <td><?php echo $u->NAMA_DOSEN ?></td>
                         <td><a href="/">Submit</a>
-                            <?php echo anchor('DataDosen/edit/'.$u->ID_DOSEN, 'Edit'); ?>
-                            <?php echo anchor('DataDosen/hapus/'.$u->ID_DOSEN, 'Hapus'); ?>
+                            <?php echo anchor('DataDosen/edit/' . $u->ID_DOSEN, 'Edit'); ?>
+                            <?php echo anchor('DataDosen/hapus/' . $u->ID_DOSEN, 'Hapus'); ?>
                         </td>
                     </tr>
                 <?php } ?>

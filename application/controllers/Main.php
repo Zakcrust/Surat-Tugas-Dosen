@@ -64,7 +64,8 @@ class Main extends CI_Controller
 
 	public function inputMK()
 	{
-		$data['DATA_DOSEN'] = $this->m_data->tampil_data()->result();
+		$table = 'DATA_DOSEN';
+		$data['DATA_DOSEN'] = $this->m_data->tampil_data($table)->result();
 		$this->load->view('input_mk',$data);
 	}
 

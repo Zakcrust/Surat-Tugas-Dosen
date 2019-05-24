@@ -1,0 +1,4 @@
+[2019-05-24 07:59:10.186] [main] [info] update#setState idle
+[2019-05-24 07:59:40.202] [main] [info] update#setState checking for updates
+[2019-05-24 07:59:40.393] [main] [error] Error: net::ERR_ADDRESS_UNREACHABLE
+[2019-05-24 07:59:40.393] [main] [info] update#setState idle

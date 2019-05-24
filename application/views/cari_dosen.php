@@ -55,7 +55,7 @@
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="<?= base_url('main/mainMenu') ?>">Home</a></li>
                             <li><a href="<?= base_url('DataDosen') ?>">Data Dosen</a></li>
-                            <li><a href="/">Data Mata Kuliah</a></li>
+                            <li><a href="<?= base_url('DataMK') ?>">Data Mata Kuliah</a></li>
                             <li><a href="<?= base_url('login/logout') ?>">Log out</a></li>
                         </ul>
                     </div>
@@ -73,18 +73,6 @@
                 </div>
                 <div class="form-group">
                     <input type="text" name="nama_dosen" class="form-control">
-                </div>
-                <div class="text-secondary text-center">
-                    <h3>Tanggal Surat</h3>
-                </div>
-                <div class="form-group">
-                    <input type="text" name="tanggal_surat" class="form-control">
-                </div>
-                <div class="text-secondary text-center">
-                    <h3>Periode</h3>
-                </div>
-                <div class="form-group">
-                    <input type="text" name="periode" class="form-control">
                 </div>
                 <div class="form-group">
                     <button class="btn btn-success form-control" type="submit">Cari</button>

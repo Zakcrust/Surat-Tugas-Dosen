@@ -1,0 +1,15 @@
+[2019-05-24 07:59:14.897] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at Y.getDataNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:955:302)
+    at Y.updateWidth (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:953:126)
+    at e.s.instantiationService.createInstance.e [as updateWidth] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5243:730)
+    at i.elementDisposable.i.label.onDidRender (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5228:51)
+    at d.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:75:416)
+    at D.render (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4408:576)
+    at D.notifyFileDecorationsChanges (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4405:487)
+    at _widgets.forEach.t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4403:93)
+    at Array.forEach (<anonymous>)
+    at _register.decorationsService.onDidChangeDecorations.e (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4403:80)
+    at e (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:71:690)
+    at d.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:75:416)
+    at setTimeout (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:71:973)
+[2019-05-24 07:59:15.019] [renderer1] [error] net::ERR_ADDRESS_UNREACHABLE: {1}

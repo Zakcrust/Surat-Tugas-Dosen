@@ -26,3 +26,15 @@
 [2019-05-23 23:24:47.270] [exthost] [info] ExtensionService#_doActivateExtension nadako.vshaxe {"startup":true,"activationEvent":"workspaceContains:./*.hxml"}
 [2019-05-23 23:24:47.270] [exthost] [info] ExtensionService#loadCommonJSModule /home/zak/.vscode/extensions/nadako.vshaxe-2.11.0/bin/client.js
 [2019-05-23 23:24:50.446] [exthost] [info] eager extensions activated
+[2019-05-23 23:25:58.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-05-23 23:25:58.863] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-05-23 23:25:58.927] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-05-23 23:25:58.927] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-05-23 23:25:59.150] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-05-23 23:25:59.150] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-05-23 23:26:29.114] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-05-23 23:26:29.114] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-05-23 23:26:47.577] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-05-23 23:26:47.577] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-05-23 23:26:47.672] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-05-23 23:26:47.672] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main

@@ -81,6 +81,18 @@
                 <div class="form-group">
                     <input type="text" name="nama_dosen" class="form-control">
                 </div>
+                <div class="text-secondary text-center">
+                    <h3>Kode Dosen</h3>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="kode_dosen" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>NIDN</h3>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="nidn" class="form-control">
+                </div>
                 <div class="form-group">
                     <button class="btn btn-success form-control" type="submit">Submit</button>
                 </div>

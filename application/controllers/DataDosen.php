@@ -37,10 +37,13 @@ class DataDosen extends CI_Controller
         $id = $this->input->post('id');
         $nip = $this->input->post('nip');
         $namaDosen = $this->input->post('nama_dosen');
-
+        $kode_dosen = $this->input->post('kode_dosen');
+        $nidn = $this->input->post('NIDN');
         $data = array(
             'NAMA_DOSEN' => $namaDosen,
-            'NIP' => $nip,
+            'NIP'        => $nip,
+            'KODE_DOSEN' => $kode_dosen,
+            'NIDN'       => $nidn
         );
 
         $where = array(

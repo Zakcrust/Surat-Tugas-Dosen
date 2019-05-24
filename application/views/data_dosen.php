@@ -72,6 +72,8 @@
                     <th scope="col">No</th>
                     <th scope="col">NIP</th>
                     <th scope="col">Nama Dosen</th>
+                    <th scope="col">Kode Dosen</th>
+                    <th scope="col">NIDN</th>
                     <th scope="col">Aksi</th>
                 </tr>
             </thead>
@@ -85,11 +87,12 @@
                         <td><?php echo $no++ ?></td>
                         <td><?php echo $u->NIP ?></td>
                         <td><?php echo $u->NAMA_DOSEN ?></td>
+                        <td><?php echo $u->KODE_DOSEN ?></td>
+                        <td><?php echo $u->NIDN ?></td>
                         <td colspan="2">
                             <a type="button" class="btn btn-primary text-white" href="<?= base_url('DataDosen/edit/') . $u->ID_DOSEN ?>">Edit</a>
                             <a type="button" class="btn btn-danger text-white" href="<?= base_url('DataDosen/hapus/') . $u->ID_DOSEN ?>">Hapus</a>
                         </td>
-                        
                     </tr>
                 <?php } ?>
             </tbody>

@@ -64,7 +64,7 @@
         </div>
     </header>
 
-    <form name="data_dosen" method="post" action="<?= base_url('InputAdmin/submitData') ?>">
+    <form name="data_dosen" method="post" action="<?= base_url('DataDosen/submitData') ?>">
         <div class="container bg-light">
             <div class="col-md-4 mx-auto">
             </div>

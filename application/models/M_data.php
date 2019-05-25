@@ -7,6 +7,11 @@ class M_data extends CI_Model
         return $this->db->get($table);
     }
 
+    function inputData($table, $arr)
+    {
+        $this->db->insert($table, $arr);
+    }
+
     function hapus_data($where, $table)
     {
         $this->db->where($where);

@@ -31,6 +31,7 @@ class Main extends CI_Controller
 	public function index()
 	{
 		$this->load->view('main');
+		redirect(base_url("Login"));
 	}
 
 	public function mainMenu()

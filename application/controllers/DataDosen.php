@@ -18,6 +18,24 @@ class DataDosen extends CI_Controller
         $this->load->view('data_dosen', $data);
     }
 
+    function submitData()
+    {
+        $this->load->model('Input_data');
+        $nip = $this->input->post('nip');
+        $nama_dosen = $this->input->post('nama_dosen');
+        $kode_dosen = $this->input->post('kode_dosen');
+        $nidn = $this->input->post('nidn');
+        $arr = array(
+            'NIP' => $nip,
+            'NAMA_DOSEN' => $nama_dosen,
+            'KODE_DOSEN' => $kode_dosen,
+            'NIDN'       => $nidn
+        );
+        $table = 'DATA_DOSEN';
+        $this->m_data->inputData($table, $arr);
+        redirect(base_url('DataDosen'));
+    }
+
     function edit($ID_DOSEN)
     {
         $where = array('ID_DOSEN' => $ID_DOSEN);

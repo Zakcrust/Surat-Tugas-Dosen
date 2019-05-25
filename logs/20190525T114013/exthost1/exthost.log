@@ -25,3 +25,6 @@
 [2019-05-25 11:40:31.167] [exthost] [info] ExtensionService#loadCommonJSModule /home/zak/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
 [2019-05-25 11:40:36.194] [exthost] [info] ExtensionService#_doActivateExtension nadako.vshaxe {"startup":true,"activationEvent":"workspaceContains:./*.hxml"}
 [2019-05-25 11:40:36.194] [exthost] [info] ExtensionService#loadCommonJSModule /home/zak/.vscode/extensions/nadako.vshaxe-2.11.0/bin/client.js
+[2019-05-25 11:41:08.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-05-25 11:41:08.122] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-05-25 11:42:46.823] [exthost] [info] eager extensions activated

@@ -826,3 +826,3863 @@ fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
 fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
+> git show :application/views/data_mk.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/views/surat.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/models/M_data.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/views/surat.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :application/models/M_data.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/views/surat.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/models/M_data.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/views/surat.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/controllers/ManageCetak.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/views/surat.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/models/M_data.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :application/views/surat.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/models/M_login.php
+> git show :application/models/M_data.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/views/surat.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/models/M_data.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/views/surat.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git show :application/models/M_data.php
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/views/surat.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+fatal: no upstream configured for branch 'Surat-Tugas-Dosen-v0.1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file - --all

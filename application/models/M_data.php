@@ -82,5 +82,20 @@ class M_data extends CI_Model
 
         // The Roman numeral should be built, return it 
         return $result;
-    } 
+    }
+    
+    function getJurusan($jurusan)
+    {
+        switch($jurusan)
+        {   
+            case "Teknik Informatika" : return "IF";
+            case "Teknik Elektronika" : return "EE";
+            case "Biologi Sains"      : return "BIO";
+            case "Kimia Sains"        : return "KIM";
+            case "Fisika Sains"       : return "FIS";
+            case "Matematika Sains"   : return "MAT";
+        }
+
+    }
+
 }

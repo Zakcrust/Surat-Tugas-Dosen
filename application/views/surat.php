@@ -47,31 +47,33 @@
 	$this->load->model('m_data');
 	foreach ($DATA_SURAT as $s) {
 
-		$tglsurat = explode('/', $s->TANGGAL_SURAT);
-		$awalsem  = explode('/', $s->AWAL_SEM);
-		$akhirsem = explode('/', $s->AKHIR_SEM);
-		$akhirsap = explode('/', $s->AKHIR_SAP);
+		$tglsurat = explode('-', $s->TANGGAL_SURAT);
+		$awalsem  = explode('-', $s->AWAL_SEM);
+		$akhirsem = explode('-', $s->AKHIR_SEM);
+		$akhirsap = explode('-', $s->AKHIR_SAP);
+		if (intval($awalsem[1]) > 8) $semSurat = "Ganjil";
+		else $semSurat = "Genap";
 		?>
 
 		<!-- Nomor surat -->
-		<p><span style="font-weight: 400;">Nomor</span><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">: B.<?= "000 " . $s->ID_SURAT ?>/Un.05/III.7/PP.00.9/1/2019</span></p>
+		<p><span style="font-weight: 400;">Nomor</span><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">: B.<?= "000" . $s->ID_SURAT ?>/Un.05/III.7/PP.00.9/1/2019</span></p>
 		<p><span style="font-weight: 400;">Lampiran</span><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">: -</span></p>
-		<p><span style="font-weight: 400;">Perihal </span><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">: Tugas Memberi Kuliah Semester Genap</span></p>
+		<p><span style="font-weight: 400;">Perihal </span><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">: Tugas Memberi Kuliah Semester <?= $semSurat ?></span></p>
 		<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;
 				<!-- Periode -->
 			</span><span style="font-weight: 400;"> Tahun Akademik <?= $s->PERIODE ?></span></p>
 		<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">Kepada Yth.</span></p>
 		<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">Bapak/Ibu</span></p>
 		<?php
-		$this->db->select('dosen.ID_DOSEN, dosen.NAMA_DOSEN');
+		$this->db->select('dosen.ID_DOSEN, dosen.NAMA_DOSEN, dosen.KODE_DOSEN');
 		$this->db->from('DATA_DOSEN as dosen, DATA_SURAT as srt ');
 		$this->db->where('dosen.ID_DOSEN', $s->ID_DOSEN);
 		$query = $this->db->get();
 		$row = $query->row();
 		?>
 		<!-- Nama Dosen -->
-		<p><b>&nbsp;&nbsp;&nbsp; </b><b><?= $row->NAMA_DOSEN?></b><b>&nbsp;&nbsp;&nbsp; </b><b>&nbsp;&nbsp;&nbsp;
-			</b><b><?= $row->KODE_DOSEN?></b></p>
+		<p><b>&nbsp;&nbsp;&nbsp; </b><b><?= $row->NAMA_DOSEN; ?></b><b>&nbsp;&nbsp;&nbsp; </b><b>&nbsp;&nbsp;&nbsp;
+			</b><b><?= $row->KODE_DOSEN; ?></b></p>
 		<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">Dosen Fakultas Sains dan
 				Teknologi</span></p>
 		<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">UIN Sunan Gunung Djati
@@ -80,13 +82,13 @@
 		<p><span style="font-weight: 400;">Assalamu&rsquo;alaikum Wr.Wb.</span></p>
 		<!-- Periode semester -->
 		<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">Dengan ini kami sampaikan
-				tugas/jadwal memberi kuliah pada semester genap tahun akademik pada semester genap tahun akademik 2018/2019 yang
-				berlaku mulai tanggal 4 februari sampai dengan 25 Mei 2019, adapun ketentuan pelaksanaanya sebagai
+				tugas/jadwal memberi kuliah pada semester <?= $semSurat ?> tahun akademik pada semester <?= $semSurat ?> tahun akademik <?= $s->PERIODE ?> yang
+				berlaku mulai tanggal <?= $awalsem[2] . " " . $this->m_data->stringMonth($awalsem[1]) . " sampai dengan " . $akhirsem[2] . " " . $this->m_data->stringMonth($akhirsem[1]) . "  " . $akhirsem[0] ?>, adapun ketentuan pelaksanaanya sebagai
 				berikut:</span>
 
 			<div class="container-fluid">
 
-				<table class="table-bordered ">
+				<table class="table table-bordered ">
 					<thead>
 						<tr>
 							<th scope="col">No</th>
@@ -108,9 +110,9 @@
 								<td><?= $no++ ?></td>
 								<td><?= $d->NAMA_MK ?></td>
 								<td><?= $d->SKS ?></td>
-								<td><?= substr($d->JURUSAN, strlen($d->JURUSAN-3)) . '/' . $this->m_data->numberToRoman($d->SEMESTER). '/' . $d->KELAS ?></td>
+								<td><?= $this->m_data->getJurusan($d->JURUSAN) . '/' . $this->m_data->numberToRoman($d->SEMESTER) . '/' . $d->KELAS ?></td>
 								<td><?= $d->HARI ?></td>
-								<td><?= substr($d->JAM_MULAI, -3) . ':' . substr($d->JAM_SELESAI, -3) ?></td>
+								<td><?= substr($d->JAM_MULAI, 0, 5) . ':' . substr($d->JAM_SELESAI, 0, 5) ?></td>
 								<td><?= $d->RUANG ?></td>
 							</tr>
 						<?php } ?>

@@ -31,7 +31,7 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
 
-</head>
+</head>text
 
 <body>
     <header class="site-header" role="banner">
@@ -68,25 +68,55 @@
         <div class="container bg-light">
             <div class="col-md-4 mx-auto">
             </div>
-            
+
             <div class="col-md-4 mx-auto">
-                <?php 
-                foreach($DATA_DOSEN as $d) { ?>
-                <div class="form-group">
-                    <input type="hidden" name="id_dosen" class="form-control" value="<?= $d->ID_DOSEN ?>">
-                </div>
+                <?php
+                foreach ($DATA_DOSEN as $d) { ?>
+                    <div class="form-group">
+                        <input type="hidden" name="id_dosen" class="form-control" value="<?= $d->ID_DOSEN ?>">
+                    </div>
                 <?php } ?>
                 <div class="text-secondary text-center">
                     <h3>Tanggal Surat</h3>
                 </div>
                 <div class="form-group">
-                    <input type="text" name="tanggal_surat" class="form-control">
+                    <input type="date" name="tanggal_surat" class="form-control">
                 </div>
                 <div class="text-secondary text-center">
                     <h3>Periode</h3>
                 </div>
                 <div class="form-group">
                     <input type="text" name="periode" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>Awal Semester</h3>
+                </div>
+                <div class="form-group">
+                    <input type="date" name="awal_sem" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>Akhir Semester</h3>
+                </div>
+                <div class="form-group">
+                    <input type="date" name="akhir_sem" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>Akhir SAP</h3>
+                </div>
+                <div class="form-group">
+                    <input type="date" name="akhir_sap" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>Wadek 3</h3>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="wadek_3" class="form-control">
+                </div>
+                <div class="text-secondary text-center">
+                    <h3>NIP Wadek 3</h3>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="nip_wadek_3" class="form-control">
                 </div>
                 <div class="form-group">
                     <button class="btn btn-success form-control" type="submit">Submit</button>

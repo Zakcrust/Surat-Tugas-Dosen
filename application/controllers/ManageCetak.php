@@ -29,9 +29,10 @@ class ManageCetak extends CI_Controller
             'PERIODE'       => $periode
         );
         $where = array ('ID_DOSEN' => $idDosen);
-        $data['DATA_JADWAL'] = $this->m_data->edit_data($where,'DATA_JADWAL')->result();
         $data['DATA_MK'] = $this->m_data->edit_data($where,'DATA_MK')->result();
         $data['DATA_DOSEN'] = $this->m_data->edit_data($where, 'DATA_MK')->result();
-        $this->load-view('cetak',$data);
+        $this->load->view('surat',$data);
+        
+        echo "<script>window.print();</script>";
     }
 }

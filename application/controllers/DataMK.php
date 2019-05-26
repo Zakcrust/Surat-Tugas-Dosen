@@ -37,7 +37,6 @@ class DataMK extends CI_Controller
 
     function submitData()
     {
-        $this->load->model('Input_data');
         $idDosen = $this->input->post('nama_dosen');
         $namaMK = $this->input->post('nama_mk');
         $jurusan = $this->input->post('jurusan');

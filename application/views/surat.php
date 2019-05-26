@@ -48,6 +48,7 @@
 	foreach ($DATA_SURAT as $s) {
 
 		$tglsurat = explode('-', $s->TANGGAL_SURAT);
+		$buatsurat = explode('-',$s->BUAT_SURAT);
 		$awalsem  = explode('-', $s->AWAL_SEM);
 		$akhirsem = explode('-', $s->AKHIR_SEM);
 		$akhirsap = explode('-', $s->AKHIR_SAP);
@@ -56,7 +57,7 @@
 		?>
 
 		<!-- Nomor surat -->
-		<p><span style="font-weight: 400;">Nomor</span><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">: B.<?= "000" . $s->ID_SURAT ?>/Un.05/III.7/PP.00.9/1/2019</span></p>
+		<p><span style="font-weight: 400;">Nomor</span><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">: B.<?= "000" . $s->ID_SURAT ?>/Un.05/III.7/PP.00.<?=$buatsurat[2].'/'.$buatsurat[1].'/'.$buatsurat[0] ?></span></p>
 		<p><span style="font-weight: 400;">Lampiran</span><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">: -</span></p>
 		<p><span style="font-weight: 400;">Perihal </span><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">: Tugas Memberi Kuliah Semester <?= $semSurat ?></span></p>
 		<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;
@@ -129,7 +130,7 @@
 					terjadwal sekurang-kurang 14 kali.</span></li>
 			<!-- Batas Akhir SAP -->
 			<li style="font-weight: 400;"><span style="font-weight: 400;">Menyiapkan dan menyampaikan SAP kepada Jurusan
-					selambat-lambatnya tanggal 11 Februari 2019.</span></li>
+					selambat-lambatnya tanggal <?= $akhirsap[2].' '.$this->m_data->stringMonth($akhirsap[1]).' '.$akhirsap[0]?></span></li>
 			<li style="font-weight: 400;"><span style="font-weight: 400;">Sebelum memulai perkuliahan agar mengecek daftar
 					Mahasiswa yang berhak mengikuti kuliah.</span></li>
 			<li style="font-weight: 400;"><span style="font-weight: 400;">Pada akhir perkuliahan agar mengecek daftar Mahasiswa
@@ -143,7 +144,7 @@
 		<p><span style="font-weight: 400;">Wassalamu&rsquo;alaikum Wr.Wb.,</span></p>
 		<!-- Tanggal Surat -->
 		<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				Bandung, 21 Januari 2019</span></p>
+				Bandung, <?=$tglsurat[2].' '.$this->m_data->stringMonth($tglsurat[1]).' '.$tglsurat[0].'.'?></span></p>
 		<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;
 			</span><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			</span><span style="font-weight: 400;">a.n. Dekan,</span></p>

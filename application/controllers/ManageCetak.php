@@ -22,6 +22,7 @@ class ManageCetak extends CI_Controller
     {
         $idDosen      = $this->input->post('id_dosen');
         $tanggalSurat = $this->input->post('tanggal_surat');
+        $buatSurat    = $this->input->post('buat_surat');
         $periode      = $this->input->post('periode');
         $awalSem      = $this->input->post('awal_sem');
         $akhirSem     = $this->input->post('akhir_sem');
@@ -31,6 +32,7 @@ class ManageCetak extends CI_Controller
         $arr = array (
             'ID_DOSEN'      => $idDosen,
             'TANGGAL_SURAT' => $tanggalSurat,
+            'BUAT_SURAT'    => $buatSurat,
             'PERIODE'       => $periode,
             'AWAL_SEM'      => $awalSem,
             'AKHIR_SEM'     => $akhirSem,

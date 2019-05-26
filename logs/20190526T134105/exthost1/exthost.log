@@ -1,0 +1,28 @@
+[2019-05-26 13:41:09.356] [exthost] [info] extension host started
+[2019-05-26 13:41:09.387] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-05-26 13:41:09.387] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2019-05-26 13:41:09.401] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-05-26 13:41:09.401] [exthost] [info] ExtensionService#loadCommonJSModule /home/zak/.vscode/extensions/bmewburn.vscode-intelephense-client-1.0.14/out/extension
+[2019-05-26 13:41:09.521] [exthost] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-05-26 13:41:09.521] [exthost] [info] ExtensionService#loadCommonJSModule /home/zak/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/out/extension
+[2019-05-26 13:41:09.620] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-05-26 13:41:09.620] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-05-26 13:41:09.625] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-05-26 13:41:09.625] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-05-26 13:41:09.648] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-05-26 13:41:09.648] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-05-26 13:41:09.816] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-05-26 13:41:09.816] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-05-26 13:41:09.825] [exthost] [info] ExtensionService#_doActivateExtension beeware.beeware {"startup":true,"activationEvent":"*"}
+[2019-05-26 13:41:09.825] [exthost] [info] ExtensionService#loadCommonJSModule /home/zak/.vscode/extensions/beeware.beeware-0.0.1/out/src/extension
+[2019-05-26 13:41:10.138] [exthost] [info] ExtensionService#_doActivateExtension jarrio.hxmanager {"startup":true,"activationEvent":"*"}
+[2019-05-26 13:41:10.138] [exthost] [info] ExtensionService#loadCommonJSModule /home/zak/.vscode/extensions/jarrio.hxmanager-0.4.5/main
+[2019-05-26 13:41:10.151] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.atom-keybindings {"startup":true,"activationEvent":"*"}
+[2019-05-26 13:41:10.151] [exthost] [info] ExtensionService#loadCommonJSModule /home/zak/.vscode/extensions/ms-vscode.atom-keybindings-3.0.6/extension
+[2019-05-26 13:41:10.154] [exthost] [info] ExtensionService#_doActivateExtension vshaxe.hxcpp-debugger {"startup":true,"activationEvent":"*"}
+[2019-05-26 13:41:10.154] [exthost] [info] ExtensionService#loadCommonJSModule /home/zak/.vscode/extensions/vshaxe.hxcpp-debugger-1.2.4/bin/extension.js
+[2019-05-26 13:41:10.155] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-05-26 13:41:10.155] [exthost] [info] ExtensionService#loadCommonJSModule /home/zak/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2019-05-26 13:41:11.869] [exthost] [info] ExtensionService#_doActivateExtension nadako.vshaxe {"startup":true,"activationEvent":"workspaceContains:./*.hxml"}
+[2019-05-26 13:41:11.869] [exthost] [info] ExtensionService#loadCommonJSModule /home/zak/.vscode/extensions/nadako.vshaxe-2.11.0/bin/client.js
+[2019-05-26 13:41:35.943] [exthost] [info] eager extensions activated

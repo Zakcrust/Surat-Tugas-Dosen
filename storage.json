@@ -523,7 +523,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1331,10 +1332,10 @@
             "backupPath": "/opt/lampp/htdocs/SuratTugasDosen/Backups/eeb71ef802dd9f43826618385592083e",
             "uiState": {
                 "mode": 1,
-                "x": 2,
-                "y": 18,
-                "width": 1362,
-                "height": 729
+                "x": 0,
+                "y": 0,
+                "width": 1366,
+                "height": 768
             }
         },
         "openedWindows": []

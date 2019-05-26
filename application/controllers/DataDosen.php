@@ -20,7 +20,6 @@ class DataDosen extends CI_Controller
 
     function submitData()
     {
-        $this->load->model('Input_data');
         $nip = $this->input->post('nip');
         $nama_dosen = $this->input->post('nama_dosen');
         $kode_dosen = $this->input->post('kode_dosen');

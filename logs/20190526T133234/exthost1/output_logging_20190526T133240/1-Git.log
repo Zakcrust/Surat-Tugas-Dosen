@@ -1,0 +1,527 @@
+Looking for git in: git
+Using git  from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /opt/lampp/htdocs/SuratTugasDosen
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/views/surat.php
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git checkout -q master
+error: Your local changes to the following files would be overwritten by checkout:
+	Cache/751a34aacba5dfdb_0
+	Cache/cbc42e4c979f69f0_0
+	Cache/index-dir/the-real-index
+	Cookies
+	GPUCache/data_0
+	GPUCache/data_1
+	GPUCache/index
+	User/globalStorage/state.vscdb
+	User/globalStorage/state.vscdb.backup
+	User/workspaceStorage/eeb71ef802dd9f43826618385592083e/state.vscdb
+	User/workspaceStorage/eeb71ef802dd9f43826618385592083e/state.vscdb.backup
+	application/controllers/DataDosen.php
+	application/controllers/DataMK.php
+	application/controllers/ManageCetak.php
+	application/views/cari_dosen.php
+	application/views/data_dosen.php
+	application/views/input_dosen.php
+	application/views/input_mk.php
+	application/views/input_surat.php
+	application/views/search_result.php
+	application/views/surat.php
+	application/views/update_dosen.php
+	rapid_render.json
+	storage.json
+Please commit your changes or stash them before you switch branches.
+Aborting
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -z --stdin
+> git show :application/views/surat.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git push origin Surat-Tugas-Dosen-v0.1:master
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+To https://github.com/Zakcrust/Surat-Tugas-Dosen.git
+   24d1234..2792984  Surat-Tugas-Dosen-v0.1 -> master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :application/views/surat.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Surat-Tugas-Dosen-v0.1
+> git rev-parse --symbolic-full-name Surat-Tugas-Dosen-v0.1@{u}
+> git rev-list --left-right Surat-Tugas-Dosen-v0.1...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

@@ -1,0 +1,4 @@
+[2019-05-26 10:59:49.310] [main] [info] update#setState idle
+[2019-05-26 11:00:19.321] [main] [info] update#setState checking for updates
+[2019-05-26 11:00:19.329] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+[2019-05-26 11:00:19.329] [main] [info] update#setState idle

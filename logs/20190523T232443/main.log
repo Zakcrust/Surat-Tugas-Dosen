@@ -1,7 +1,0 @@
-[2019-05-23 23:24:43.434] [main] [info] update#setState idle
-[2019-05-23 23:25:13.453] [main] [info] update#setState checking for updates
-[2019-05-23 23:25:13.937] [main] [info] update#setState available for download
-[2019-05-23 23:27:04.299] [main] [info] update#setState idle
-[2019-05-24 07:41:27.923] [main] [info] update#setState checking for updates
-[2019-05-24 07:41:27.982] [main] [error] Error: net::ERR_ADDRESS_UNREACHABLE
-[2019-05-24 07:41:27.983] [main] [info] update#setState idle

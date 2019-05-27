@@ -46,7 +46,5 @@ class ManageCetak extends CI_Controller
         $data['DATA_DOSEN'] = $this->m_data->edit_data($where, 'DATA_MK')->result();
         $data['DATA_SURAT'] = $this->db->select("*")->limit(1)->order_by('ID_SURAT', "DESC")->get("DATA_SURAT")->result();
         $this->load->view('surat',$data);
-        
-        echo "<script>window.print();</script>";
     }
 }

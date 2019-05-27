@@ -1,0 +1,4 @@
+Haxe language server started
+Haxe version does not support JSON-RPC, using legacy --display API.
+Building Cache...
+Listening on port 6000

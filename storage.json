@@ -2,7 +2,9 @@
     "telemetry.machineId": "381a587833b5f7c432459d528f11ca0db8f7c6d264629c139e204379cd49e0c7",
     "openedPathsList": {
         "workspaces3": [],
-        "files2": []
+        "files2": [
+            "file:///home/zak/Documents/surat.php"
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -39,6 +41,20 @@
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
                                     "label": "&&Reopen Closed Editor"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/zak/Documents/surat.php",
+                                        "path": "/home/zak/Documents/surat.php",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/surat.php"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -523,8 +539,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1332,12 +1347,13 @@
             "backupPath": "/opt/lampp/htdocs/SuratTugasDosen/Backups/eeb71ef802dd9f43826618385592083e",
             "uiState": {
                 "mode": 1,
-                "x": 0,
-                "y": 0,
-                "width": 1366,
-                "height": 768
+                "x": 3,
+                "y": 26,
+                "width": 1360,
+                "height": 713
             }
         },
         "openedWindows": []
-    }
+    },
+    "pickerWorkingDir": "/home/zak/Documents"
 }

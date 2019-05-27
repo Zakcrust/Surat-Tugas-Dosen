@@ -12,34 +12,37 @@
     <title>Prak RPL</title>
 </head>
 
-<body>
-    <div class="jumbotron bg-info text-white">
-        <h1 class="display-4">Pembuatan Surat Tugas Dosen</h1>
-    </div>
-
-    <form name="login" method="post" action="<?= base_url('login/onLogin') ?>">
-        <div class="container bg-light col-3 col-6">
-            <div class="input-group py-2 mx-auto" style="width: 600px;">
-                <div class="input-group-prepend">
-                    <span class="input-group-text bg-info text-light" id="inputGroup-sizing-default">Username</span>
-                </div>
-                <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" name="username">
-            </div>
-
-            <div class="input-group py-2 mx-auto" style="width: 600px;">
-                <div class="input-group-prepend">
-                    <span class="input-group-text bg-info text-light" id="inputGroup-sizing-default">Password</span>
-                </div>
-                <input type="password" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" name="password">
-            </div>
-            <div class="mx-auto">
-                <p class="text-danger"><?php echo $this->session->flashdata('loginFail'); ?></p>
-            </div>
-            <div class="py-3 mx-auto" style="width: 600px" id="login">
-                <button type="submit" class="btn btn-success" value="login">Login</button>
-            </div>
+<body class="bg-primary">
+    <div class="w3-card">
+        <div class="jumbotron bg-primary text-white ">
+            <br>
+            <h1 style="font-family:arial" align="center">Pembuatan Surat Tugas Dosen</h1>
         </div>
-    </form>
+
+        <form name="login" method="post" action="<?= base_url('login/onLogin') ?>">
+            <div class="container bg-light col-3 col-6">
+                <div class="input-group py-2 mx-auto" style="width: 600px;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text bg-info text-light" id="inputGroup-sizing-default">Username</span>
+                    </div>
+                    <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" name="username">
+                </div>
+
+                <div class="input-group py-2 mx-auto" style="width: 600px;">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text bg-info text-light" id="inputGroup-sizing-default">Password</span>
+                    </div>
+                    <input type="password" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" name="password">
+                </div>
+                <div class="mx-auto">
+                    <p class="text-danger"><?php echo $this->session->flashdata('loginFail'); ?></p>
+                </div>
+                <div class="py-3 mx-auto" style="width: 600px" id="login">
+                    <button type="submit" class="btn btn-success" value="login">Login</button>
+                </div>
+            </div>
+        </form>
+    </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

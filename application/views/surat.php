@@ -15,7 +15,6 @@ foreach ($DATA_SURAT as $s) {
   $this->db->where('dosen.ID_DOSEN', $s->ID_DOSEN);
   $query = $this->db->get();
   $row = $query->row();
-
   ?>
 
   <table width="700" border="0" align="center">

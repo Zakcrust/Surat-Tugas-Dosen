@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: May 24, 2019 at 03:53 AM
+-- Generation Time: May 27, 2019 at 04:11 PM
 -- Server version: 10.1.38-MariaDB
 -- PHP Version: 7.3.3
 
@@ -49,6 +49,8 @@ INSERT INTO `ADMIN` (`USERNAME`, `PASSWORD`) VALUES
 CREATE TABLE `DATA_DOSEN` (
   `ID_DOSEN` int(11) NOT NULL,
   `NAMA_DOSEN` varchar(255) NOT NULL,
+  `KODE_DOSEN` varchar(4) NOT NULL,
+  `NIDN` varchar(20) NOT NULL,
   `NIP` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
@@ -56,9 +58,9 @@ CREATE TABLE `DATA_DOSEN` (
 -- Dumping data for table `DATA_DOSEN`
 --
 
-INSERT INTO `DATA_DOSEN` (`ID_DOSEN`, `NAMA_DOSEN`, `NIP`) VALUES
-(7, 'M Deden Furqon', '1237163218'),
-(8, 'Agung S B P', '123123123123');
+INSERT INTO `DATA_DOSEN` (`ID_DOSEN`, `NAMA_DOSEN`, `KODE_DOSEN`, `NIDN`, `NIP`) VALUES
+(1, 'Sambas Auditore', '7701', '1514131216171814', '1213141516171819'),
+(2, 'Patrick Sambas Cormac', '7702', '1213141213141213', '1213141213141213');
 
 -- --------------------------------------------------------
 
@@ -86,9 +88,9 @@ CREATE TABLE `DATA_MK` (
 --
 
 INSERT INTO `DATA_MK` (`ID_MK`, `ID_DOSEN`, `NAMA_MK`, `JURUSAN`, `SKS`, `SEMESTER`, `KURIKULUM`, `KELAS`, `HARI`, `JAM_MULAI`, `JAM_SELESAI`, `RUANG`) VALUES
-(2, 8, 'Struktur Data', 'Teknik Informatika', 2, 3, '2015', 'A', 'Jum\'at', '12:40:00', '14:20:00', 'R 4.11'),
-(3, 8, 'Dasar Pemograman', 'Teknik Informatika', 2, 1, '2015', 'A', 'Senin', '07:00:00', '08:40:00', 'R 4.09'),
-(4, 7, 'Algoritma dan Pemograman', 'Teknik Informatika', 2, 2, '2015', 'B', 'Jumat', '07:00:00', '08:40:00', 'R 4.10');
+(1, 2, 'Struktur Data', 'Teknik Informatika', 2, 3, '2015', 'A', 'Kamis', '07:00:00', '08:40:00', 'R 4.09'),
+(2, 1, 'Algoritma dan Pemograman', 'Teknik Informatika', 2, 2, '2015', 'A', 'Rabu', '07:00:00', '08:40:00', 'R 4.10'),
+(3, 1, 'Logika Informatika', 'Teknik Informatika', 3, 2, '2015', 'A', 'Senin', '12:40:00', '14:20:00', 'R. 4.01');
 
 -- --------------------------------------------------------
 
@@ -100,8 +102,27 @@ CREATE TABLE `DATA_SURAT` (
   `ID_SURAT` int(11) NOT NULL,
   `ID_DOSEN` int(11) NOT NULL,
   `TANGGAL_SURAT` date DEFAULT NULL,
-  `PERIODE` varchar(255) DEFAULT NULL
+  `BUAT_SURAT` date NOT NULL,
+  `PERIODE` varchar(255) DEFAULT NULL,
+  `AWAL_SEM` date NOT NULL,
+  `AKHIR_SEM` date NOT NULL,
+  `AKHIR_SAP` date NOT NULL,
+  `WADEK_3` varchar(255) NOT NULL,
+  `NIP_WADEK_3` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `DATA_SURAT`
+--
+
+INSERT INTO `DATA_SURAT` (`ID_SURAT`, `ID_DOSEN`, `TANGGAL_SURAT`, `BUAT_SURAT`, `PERIODE`, `AWAL_SEM`, `AKHIR_SEM`, `AKHIR_SAP`, `WADEK_3`, `NIP_WADEK_3`) VALUES
+(1, 1, '2020-03-03', '2020-01-01', '2020/2021', '2020-04-04', '2020-08-08', '2020-04-12', 'Agung S B P', '1177050050050'),
+(2, 1, '2020-01-20', '2020-01-01', '2019/2020', '2020-01-27', '2020-07-27', '2020-01-23', 'Agung S B P', '1177050050050'),
+(3, 1, '2020-02-02', '2020-02-02', '2020/2021', '2020-02-02', '2020-02-02', '2020-02-02', 'Agung S B P', '1177050050050'),
+(4, 1, '2020-02-02', '2020-02-02', '2019/2020', '2020-02-02', '2020-02-02', '2020-02-02', 'Agung S B P', '1177050050050'),
+(5, 1, '2020-02-02', '2020-02-02', '2019/2020', '2020-02-02', '2020-02-02', '2020-02-02', 'Agung S B P', '1177050050050'),
+(6, 1, '2020-02-02', '2020-02-02', '2019/2020', '2020-02-02', '2020-02-02', '2020-02-02', 'Agung S B P', '1177050050050'),
+(7, 2, '2020-02-02', '2020-02-02', '2019/2020', '2020-02-02', '2020-02-02', '2020-02-02', 'Agung S B P', '17917917917');
 
 --
 -- Indexes for dumped tables
@@ -138,19 +159,19 @@ ALTER TABLE `DATA_SURAT`
 -- AUTO_INCREMENT for table `DATA_DOSEN`
 --
 ALTER TABLE `DATA_DOSEN`
-  MODIFY `ID_DOSEN` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
+  MODIFY `ID_DOSEN` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
 -- AUTO_INCREMENT for table `DATA_MK`
 --
 ALTER TABLE `DATA_MK`
-  MODIFY `ID_MK` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `ID_MK` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT for table `DATA_SURAT`
 --
 ALTER TABLE `DATA_SURAT`
-  MODIFY `ID_SURAT` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `ID_SURAT` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 
 --
 -- Constraints for dumped tables

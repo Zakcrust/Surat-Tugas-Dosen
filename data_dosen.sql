@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: May 27, 2019 at 04:11 PM
+-- Generation Time: May 29, 2019 at 09:58 AM
 -- Server version: 10.1.38-MariaDB
 -- PHP Version: 7.3.3
 
@@ -59,8 +59,8 @@ CREATE TABLE `DATA_DOSEN` (
 --
 
 INSERT INTO `DATA_DOSEN` (`ID_DOSEN`, `NAMA_DOSEN`, `KODE_DOSEN`, `NIDN`, `NIP`) VALUES
-(1, 'Sambas Auditore', '7701', '1514131216171814', '1213141516171819'),
-(2, 'Patrick Sambas Cormac', '7702', '1213141213141213', '1213141213141213');
+(1, 'Agung Wahana SE. MT.', '7131', '1234567891258', '1234567891258'),
+(3, 'Beki Subaeki M.Kom.', '7732', '1234567891341', '1234567891341');
 
 -- --------------------------------------------------------
 
@@ -88,9 +88,12 @@ CREATE TABLE `DATA_MK` (
 --
 
 INSERT INTO `DATA_MK` (`ID_MK`, `ID_DOSEN`, `NAMA_MK`, `JURUSAN`, `SKS`, `SEMESTER`, `KURIKULUM`, `KELAS`, `HARI`, `JAM_MULAI`, `JAM_SELESAI`, `RUANG`) VALUES
-(1, 2, 'Struktur Data', 'Teknik Informatika', 2, 3, '2015', 'A', 'Kamis', '07:00:00', '08:40:00', 'R 4.09'),
-(2, 1, 'Algoritma dan Pemograman', 'Teknik Informatika', 2, 2, '2015', 'A', 'Rabu', '07:00:00', '08:40:00', 'R 4.10'),
-(3, 1, 'Logika Informatika', 'Teknik Informatika', 3, 2, '2015', 'A', 'Senin', '12:40:00', '14:20:00', 'R. 4.01');
+(1, 1, 'Rekayasa Perangkat Lunak', 'Teknik Informatika', 2, 4, '2015', 'A', 'Kamis', '12:40:00', '14:20:00', 'R.4.11'),
+(2, 1, 'Rekayasa Perangkat Lunak', 'Teknik Informatika', 2, 4, '2015', 'B', 'Kamis', '14:20:00', '16:00:00', 'R.4.11'),
+(3, 1, 'Rekayasa Perangkat Lunak', 'Teknik Informatika', 2, 4, '2015', 'C', 'Jumat', '14:20:00', '16:00:00', 'R.4.11'),
+(4, 1, 'Rekayasa Perangkat Lunak', 'Teknik Informatika', 2, 4, '2015', 'D', 'Jumat', '12:40:00', '14:20:00', 'R.4.11'),
+(5, 3, 'Manajemen', 'Teknik Informatika', 2, 6, '2015', 'A', 'Selasa', '08:40:00', '10:20:00', 'R.4.10'),
+(6, 3, 'Manajemen', 'Teknik Informatika', 2, 6, '2015', 'B', 'Selasa', '10:20:00', '12:00:00', 'R.4.10');
 
 -- --------------------------------------------------------
 
@@ -110,19 +113,6 @@ CREATE TABLE `DATA_SURAT` (
   `WADEK_3` varchar(255) NOT NULL,
   `NIP_WADEK_3` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
---
--- Dumping data for table `DATA_SURAT`
---
-
-INSERT INTO `DATA_SURAT` (`ID_SURAT`, `ID_DOSEN`, `TANGGAL_SURAT`, `BUAT_SURAT`, `PERIODE`, `AWAL_SEM`, `AKHIR_SEM`, `AKHIR_SAP`, `WADEK_3`, `NIP_WADEK_3`) VALUES
-(1, 1, '2020-03-03', '2020-01-01', '2020/2021', '2020-04-04', '2020-08-08', '2020-04-12', 'Agung S B P', '1177050050050'),
-(2, 1, '2020-01-20', '2020-01-01', '2019/2020', '2020-01-27', '2020-07-27', '2020-01-23', 'Agung S B P', '1177050050050'),
-(3, 1, '2020-02-02', '2020-02-02', '2020/2021', '2020-02-02', '2020-02-02', '2020-02-02', 'Agung S B P', '1177050050050'),
-(4, 1, '2020-02-02', '2020-02-02', '2019/2020', '2020-02-02', '2020-02-02', '2020-02-02', 'Agung S B P', '1177050050050'),
-(5, 1, '2020-02-02', '2020-02-02', '2019/2020', '2020-02-02', '2020-02-02', '2020-02-02', 'Agung S B P', '1177050050050'),
-(6, 1, '2020-02-02', '2020-02-02', '2019/2020', '2020-02-02', '2020-02-02', '2020-02-02', 'Agung S B P', '1177050050050'),
-(7, 2, '2020-02-02', '2020-02-02', '2019/2020', '2020-02-02', '2020-02-02', '2020-02-02', 'Agung S B P', '17917917917');
 
 --
 -- Indexes for dumped tables
@@ -159,19 +149,19 @@ ALTER TABLE `DATA_SURAT`
 -- AUTO_INCREMENT for table `DATA_DOSEN`
 --
 ALTER TABLE `DATA_DOSEN`
-  MODIFY `ID_DOSEN` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `ID_DOSEN` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT for table `DATA_MK`
 --
 ALTER TABLE `DATA_MK`
-  MODIFY `ID_MK` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `ID_MK` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
 --
 -- AUTO_INCREMENT for table `DATA_SURAT`
 --
 ALTER TABLE `DATA_SURAT`
-  MODIFY `ID_SURAT` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `ID_SURAT` int(11) NOT NULL AUTO_INCREMENT;
 
 --
 -- Constraints for dumped tables
